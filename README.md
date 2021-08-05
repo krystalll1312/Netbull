@@ -1,2 +1,2 @@
-Netbull
+#Netbull
 Description of the command
