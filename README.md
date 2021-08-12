@@ -1,1 +1,1 @@
-/azure-devops/coverage/:organization/:project/:definitionId
+?style=plastic&logo=appveyor
