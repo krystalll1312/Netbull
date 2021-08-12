@@ -1,1 +1,1 @@
-?style=plastic&logo=appveyor
+?label=healthinesses
