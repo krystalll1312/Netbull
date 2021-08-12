@@ -1,2 +1,1 @@
-#Netbull
-Description of the command
+/azure-devops/coverage/:organization/:project/:definitionId
